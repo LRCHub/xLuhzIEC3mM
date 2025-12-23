@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "花束",
+  "base_artist": "Blurred City Lights",
+  "createdAt": "2025-12-23T10:23:36.095879Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花束",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/01_花束_back_number.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花束",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/02_花束_中島_美嘉.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花束",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/03_花束_back_number.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花束",
+      "artist": "WHITE-LIPS",
+      "has_synced": false,
+      "path": "select/04_花束_WHITE-LIPS.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "花束",
+      "artist": "PELICAN FANCLUB",
+      "has_synced": false,
+      "path": "select/05_花束_PELICAN_FANCLUB.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "花束 - Hanataba",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/06_花束_-_Hanataba_back_number.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "花束",
+      "artist": "MOSHIMO",
+      "has_synced": false,
+      "path": "select/07_花束_MOSHIMO.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "花束",
+      "artist": "中島美嘉",
+      "has_synced": false,
+      "path": "select/08_花束_中島美嘉.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "花束",
+      "artist": "Kalafina",
+      "has_synced": false,
+      "path": "select/09_花束_Kalafina.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "back number - 花束 (full)",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/10_back_number_-_花束_(full)_back_number.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "花束",
+      "artist": "Kaede",
+      "has_synced": false,
+      "path": "select/11_花束_Kaede.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "花束",
+      "artist": "茅原実里",
+      "has_synced": false,
+      "path": "select/12_花束_茅原実里.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "花束 (full)",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/13_花束_(full)_back_number.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "花束",
+      "artist": "King & Prince",
+      "has_synced": true,
+      "path": "select/14_花束_King_&_Prince.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "花束",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/15_花束_back_number.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "花束 (Live at NHK Hall 2016.07.22)",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/16_花束_(Live_at_NHK_Hall_2016.07.22)_中島_美嘉.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "花束 Piano & Voice Style",
+      "artist": "中島美嘉",
+      "has_synced": true,
+      "path": "select/17_花束_Piano_&_Voice_Style_中島美嘉.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "花束",
+      "artist": "V.W.P",
+      "has_synced": true,
+      "path": "select/18_花束_V.W.P.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花束",
+      "artist": "Blurred City Lights",
+      "has_synced": false,
+      "path": "select/pl_01_花束_Blurred_City_Lights.txt"
+    }
+  ]
+}
